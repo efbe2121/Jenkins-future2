@@ -1,4 +1,5 @@
-@Library('Library-Jenkins-Yow@master') _
+@Library('Library-Jenkins-Yow@master')
 pipelineDeliv(
-  text: "Kenapa jenkins better"
+  text: "From Container"
+  agents: "container"
 )

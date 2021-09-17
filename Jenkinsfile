@@ -1,4 +1,4 @@
 @Library('Library-Jenkins-Yow@master') _
-pipelineDeliv2(
+pipelineDeliv(
   text: "Kenapa jenkins better"
 )
